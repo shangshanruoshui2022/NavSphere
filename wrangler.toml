@@ -4,7 +4,7 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23liZvn1IJlzR6Cs8D"
+GITHUB_CLIENT_ID = "Ov23li26SBkiniMgsyAp"
 GITHUB_OWNER = "shangshanruoshui2022"
 GITHUB_REPO = "navsphere-data"
 GITHUB_BRANCH = "main"
